@@ -5,5 +5,5 @@
 // https://script.google.com/macros/s/AKfycb.../exec
 
 window.SLS_CONFIG = {
-  GOOGLE_SCRIPT_URL: "PASTE_YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE"
+  GOOGLE_SCRIPT_URL: "https://docs.google.com/spreadsheets/d/1aw7I5W8bgT5_n4gdEINtSHPT3uLVCDBFCtCOp1wcxN0/edit?usp=sharing"
 };
