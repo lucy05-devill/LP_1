@@ -5,5 +5,5 @@
 // https://script.google.com/macros/s/AKfycb.../exec
 
 window.SLS_CONFIG = {
-  GOOGLE_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbx6qGF1cUBWis7PJk5YeyN1hVcvUm86q9i9KgQIn5PRWazQv_INgD_OK8pLBEtr9KdK/exec"
+  GOOGLE_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbyMQUYf3mw6oyAX7pzJgjFhPanG7v5lMru1aLELECg74PEZVmDGRAEITz45i5rcblEy/exec"
 };
